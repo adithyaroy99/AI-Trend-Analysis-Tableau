@@ -16,5 +16,5 @@ Interactive Tableau dashboards that compare AI adoption trends (2021–2025), AI
 - `AI Trend Analysis.pdf` — project report
 - `assets/` — exported dashboard images for quick viewing
 
-## Tableau Public
+## My Tableau Profile
 [Aadhithya Roy](https://public.tableau.com/app/profile/aadhithya.roy/vizzes)
